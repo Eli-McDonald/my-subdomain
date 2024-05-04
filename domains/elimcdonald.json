@@ -1,0 +1,12 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/Eli-McDonald/Eli-McDonald.github.io",
+    "owner": {
+        "username": "Eli-McDonald",
+        "email": "Turbomonkey29@Gmail.com",
+        "twitter": "Don't have one"
+    },
+    "record": {
+        "CNAME": "Eli-McDonald.github.io"
+    }
+} 
